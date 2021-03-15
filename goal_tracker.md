@@ -16,6 +16,18 @@
 - How I'm going about it
 - details of project
 
+- [User Stories](https://en.wikipedia.org/wiki/User_story)
+  - structing outcome in plain english
+    - concrete sentace
+      - Communicate what the tool does
+  - from the users point of view
+    - what they should be able to do
+      - specific enough
+    - define the paramaters
+  - Dependences on each other
+  - Possible problems
+    - bring up other things to think about
+- Active Record pattern
 
 ## Project details
 - Terminal app
