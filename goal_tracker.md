@@ -31,7 +31,27 @@
 - As a user I want to get a report of all my goals (active, completed, inactive)
 - As a User I want to be able to see when I actioned on a goal
 
+## How to
+- Storeing data
+  - mysql lite/file system
+  - store locally
+    - data lives between program starts and stops
+  - Saving locally as Json
+  - Code for reading and writing data to disk
+    - then puting them in working format (class.. etc..)
+- Create a goal list class
+  - Functions
+    - Add
+- Goal Class
+  - Function
+    - Add action
+  - Funtion
+- Actions item (make this a class or part of a Goal)
+  - Mark as complete
+- user interface
+  - Command line
 
+### Make this into jira card (trello)
 
 
 
