@@ -32,20 +32,20 @@
 - As a User I want to be able to see when I actioned on a goal
 
 ## How to
-- Storeing data
+- Storing data
   - mysql lite/file system
   - store locally
     - data lives between program starts and stops
   - Saving locally as Json
   - Code for reading and writing data to disk
-    - then puting them in working format (class.. etc..)
+    - then putting them in working format (class.. etc..)
 - Create a goal list class
   - Functions
     - Add
 - Goal Class
   - Function
     - Add action
-  - Funtion
+  - Function
 - Actions item (make this a class or part of a Goal)
   - Mark as complete
 - user interface
